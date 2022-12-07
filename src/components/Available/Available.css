@@ -1,0 +1,13 @@
+.available{
+    background-image: url("back2.jpeg");
+    display: flex;
+    justify-content: space-around;
+}
+
+.available-text-container{
+    padding: 50px;
+}
+
+.available-text-container p{
+    text-align: left;
+}

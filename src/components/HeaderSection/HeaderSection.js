@@ -4,7 +4,7 @@ import './HeaderSection.css'
 
 const HeaderSection = () => {
     return (
-        <div className='flex justify-around items-center bg-slate-900 text-white header-section-container h-96'>
+        <div className='flex justify-around items-center bg-slate-900 text-white header-section-container'>
             <div className='header-text'>
                 <p>Hello,</p>
                 <h2>I'm Yasin Khan</h2>

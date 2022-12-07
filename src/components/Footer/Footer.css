@@ -1,0 +1,11 @@
+.social-link a{
+    color: aliceblue;
+    font-size: larger;
+    padding: 10px;
+}
+
+.social-link a:hover{
+    font-size: larger;
+    padding: 10px;
+    color: coral;
+}

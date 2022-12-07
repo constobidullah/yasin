@@ -1,0 +1,29 @@
+.service-container{
+    margin: 50px 200px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    position: relative;
+}
+
+.service-container div {
+    background-color: rgb(43, 29, 29);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.service-container div:hover {
+    background-color: rgb(5, 39, 72);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.service-container div h2{
+    color:burlywood;
+    padding-bottom: 14px;
+}
+
+.service-container div p {
+    text-align: center;
+}

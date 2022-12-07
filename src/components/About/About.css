@@ -1,0 +1,72 @@
+.about{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 30px;
+}
+
+.about .about-section{
+    margin: 100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.about .about-section img{
+    margin-right: 200px;
+    border-left: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+
+.about-information-container{
+    padding-left: 100px;
+}
+
+.about-information-container p {
+    text-align: justify;
+}
+
+.about-information{
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 30px;    
+}
+
+.about-information p {
+    line-height: 40px;
+}
+
+.hire-and-cv-link{
+    text-align: left;
+}
+
+.hire-and-cv-link .hire-me {
+    margin-right: 20px;
+    padding: 5px 50px;
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+.hire-and-cv-link .hire-me:hover{
+    padding: 5px 50px;
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    font-size: x-large;
+}
+
+.hire-and-cv-link .download-cv{
+    padding: 5px 40px;
+    background-color: coral;
+    color: aliceblue;
+    border-radius: 10px;
+    font-size: x-large;
+}
+
+.hire-and-cv-link .download-cv:hover{
+    padding: 5px 40px;
+    background-color: rgb(252, 190, 167);
+    color: aliceblue;
+    border-radius: 20px;
+    font-size: x-large;
+}
