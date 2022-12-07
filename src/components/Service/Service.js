@@ -38,6 +38,31 @@ const Service = () => {
                     <h2 className='text-4xl'>Professional Ganja khor </h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
+                <div>
+                    <PencilSquareIcon className="h-10 w-10" />
+                    <h2 className='text-4xl'>Microsoft office</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
+                </div>
+                <div>
+                    <PencilSquareIcon className="h-10 w-10" />
+                    <h2 className='text-4xl'>Microsoft Excel expert</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
+                </div>
+                <div>
+                    <PencilSquareIcon className="h-10 w-10" />
+                    <h2 className='text-4xl'>MS word expert</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
+                </div>
+                <div>
+                    <PencilSquareIcon className="h-10 w-10" />
+                    <h2 className='text-4xl'>Powerpoint presentation expert</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
+                </div>
+                <div>
+                    <PencilSquareIcon className="h-10 w-10" />
+                    <h2 className='text-4xl'>Microsoft 365 expert </h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
+                </div>
             </div>
 
         </div>

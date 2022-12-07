@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div>
             <div>
-                <h3>copyright 2022 Yasin khan All right reserved </h3>
+                <h3 className='text-white'>copyright 2022 Yasin khan All right reserved </h3>
             </div>
             <div className='social-link'>
                 <a href="https://www.facebook.com/profile.php?id=100034508957099" target="_blank"><i class="fa-brands fa-facebook"></i></a>

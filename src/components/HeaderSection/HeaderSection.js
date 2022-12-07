@@ -4,13 +4,13 @@ import './HeaderSection.css'
 
 const HeaderSection = () => {
     return (
-        <div className='flex justify-around items-center bg-slate-900 text-white header-section-container'>
+        <div className='flex justify-around items-center bg-black text-white header-section-container'>
             <div className='header-text'>
                 <p>Hello,</p>
                 <h2>I'm Yasin Khan</h2>
-                <p>Freelance photo editor</p>
-                <p className='mb-10'>Graphic designer</p>
-                <a href="https://twitter.com/YasinKh25762797" target={'_blank'}>Hire me</a>
+                <p className='text-4xl'>Freelance photo editor</p>
+                <p className='mb-10 text-4xl'>Graphic designer</p>
+                <a href="https://twitter.com/YasinKh25762797"  target={'_blank'}>Hire me</a>
             </div>
             <img src={logo} alt="" />
         </div>
