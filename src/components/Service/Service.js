@@ -9,58 +9,33 @@ const Service = () => {
 
             <div className='service-container'>
                 <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Graphic designer</h2>
+                    <i class="fa-solid fa-camera-rotate text-4xl"></i>
+                    <h2 className='text-4xl'>Adobe photoshop</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
                 <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Photo editor</h2>
+                    <i class="fa-solid fa-a text-4xl"></i>
+                    <h2 className='text-4xl'>Adobe illustrator</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
                 <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Master card designer</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
-                </div>
-                <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Video editor </h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
-                </div>
-                <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Professional designer </h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
-                </div>
-                <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Professional Ganja khor </h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
-                </div>
-                <div>
-                    <PencilSquareIcon className="h-10 w-10" />
+                    <i class="fa-brands fa-microsoft text-4xl"></i>
                     <h2 className='text-4xl'>Microsoft office</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
                 <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Microsoft Excel expert</h2>
+                    <i class="fa-solid fa-file-excel text-4xl"></i>
+                    <h2 className='text-4xl'>Microsoft Excel</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
                 <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>MS word expert</h2>
+                    <i class="fa-solid fa-file-powerpoint text-4xl"></i>
+                    <h2 className='text-4xl'>Microsoft Powerpoint</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
                 <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Powerpoint presentation expert</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
-                </div>
-                <div>
-                    <PencilSquareIcon className="h-10 w-10" />
-                    <h2 className='text-4xl'>Microsoft 365 expert </h2>
+                    <i class="fa-solid fa-file-word text-4xl"></i>
+                    <h2 className='text-4xl'>Microsoft Word</h2>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis tenetur vel consectetur vitae, distinctio veniam nam ipsam sint odit delectus? Praesentium eum veniam pariatur ab.</p>
                 </div>
             </div>

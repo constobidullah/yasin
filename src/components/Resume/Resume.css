@@ -1,0 +1,24 @@
+.resume-parent{
+    background-color: rgb(59, 68, 68);
+    padding: 30px;
+}
+
+.resume-container{
+    margin: 100px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 100px;
+}
+
+
+.education-text{
+    margin-bottom: 30px;
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    border-left: 3px double gold;
+}
+
+.experience-border{
+    border-left: 3px double greenyellow;
+}

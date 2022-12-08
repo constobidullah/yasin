@@ -8,6 +8,8 @@ import Skill from './components/Skill/Skill';
 import Available from './components/Available/Available';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
+import WorkSummary from './components/WorkSummary/WorkSummary';
+import Resume from './components/Resume/Resume';
 
 function App() {
   return (
@@ -16,7 +18,10 @@ function App() {
       <HeaderSection></HeaderSection>
       <About></About>
       <Service></Service>
+      <WorkSummary></WorkSummary>
+      <Skill></Skill>
       <Available></Available>
+      <Resume></Resume>
       <Contact></Contact>
       <Footer></Footer>
     </div>

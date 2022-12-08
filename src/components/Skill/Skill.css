@@ -1,0 +1,50 @@
+.skills-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin: 20px;
+}
+
+.designing-skills{
+    margin: 50px;
+}
+
+.basic-skills{
+    margin: 50px;
+}
+
+
+.skill-name{
+    text-align: left;
+    font-weight: 800;
+    color: white;
+    text-transform:none;
+    margin: 20px 0;
+}
+
+
+.skill-bar{
+    width: 100%px;
+    height: 12px;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+
+.skill-per{
+    height: 12px;
+    background-color: burlywood;
+    border-radius: 3px;
+    position: relative;
+}
+
+.skill-per::before{
+    content: attr(per);
+    position: absolute;
+    top: -35px;
+    right: 0;
+    background-color: aliceblue;
+    padding: 2px 6px;
+    border-radius: 5px;
+    font-size: 10px;
+    transform: translateX(50%);
+}
