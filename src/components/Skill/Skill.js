@@ -3,7 +3,7 @@ import './Skill.css'
 
 const Skill = () => {
     return (
-        <div className='bg-cyan-900'>
+        <div className='bg-cyan-800'>
             <h2 className='text-6xl underline text-blue-400 mb-24'>MY SKILLS</h2>
             <div className="skills-container">
                 <div className='designing-skills'>
@@ -76,6 +76,14 @@ const Skill = () => {
                         </div>
                     </div>
 
+                    <div className="skill">
+                        <div className="skill-name">
+                            <h3>Microsoft Access</h3>
+                        </div>
+                        <div className="skill-bar">
+                            <div className="skill-per w-7/12" per="90%"></div>
+                        </div>
+                    </div>
                     <div className="skill">
                         <div className="skill-name">
                             <h3>Microsoft office</h3>

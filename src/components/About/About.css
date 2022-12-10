@@ -41,7 +41,7 @@
 .hire-and-cv-link .hire-me {
     margin-right: 20px;
     padding: 5px 50px;
-    background-color: orange;
+    background-color: gray;
     color: white;
     border-radius: 10px;
     font-size: x-large;
@@ -49,7 +49,7 @@
 
 .hire-and-cv-link .hire-me:hover {
     padding: 5px 50px;
-    background-color: orangered;
+    background-color: green;
     color: white;
     border-radius: 20px;
     font-size: x-large;
@@ -57,7 +57,7 @@
 
 .hire-and-cv-link .download-cv {
     padding: 5px 40px;
-    background-color: coral;
+    background-color: gray;
     color: aliceblue;
     border-radius: 10px;
     font-size: x-large;
@@ -65,7 +65,7 @@
 
 .hire-and-cv-link .download-cv:hover {
     padding: 5px 40px;
-    background-color: rgb(252, 190, 167);
+    background-color: green;
     color: aliceblue;
     border-radius: 20px;
     font-size: x-large;

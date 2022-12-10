@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from '../../image/Yasinn111.png'
 import './About.css'
+import Resume from './../Resume/Resume';
 
 const About = () => {
     const informations = [
@@ -34,7 +35,7 @@ const About = () => {
                     </div>
                     <div className='hire-and-cv-link'>
                         <a href="https://www.upwork.com/freelancers/~01603cf9ee2072fd0c?fbclid=IwAR2CycNr75ex7R0bBycrT_8wN0OQE6Sphx0IzbDN6Ov-DsgboKOHz7OCMWI" target="_blank" className='hire-me'>Hire me</a>
-                        <a href="https://www.linkedin.com/in/yasin-khan-arafat/" target="_blank" className='download-cv'>Download CV</a>
+                        <a href="https://www.linkedin.com/in/yasin-khan-arafat/" target="_blank" className='download-cv'>View Resume</a>
                     </div>
 
                 </div>
@@ -42,7 +43,7 @@ const About = () => {
             </div>
 
             <div className=''>
-                <h3 className='text-5xl text-lime-400 mb-10 underline text-7xl'>Description</h3>
+                <h3 className='text-5xl text-lime-400 mb-10 text-7xl'>Description</h3>
                 <p className='text-justify mx-20'>I'm an Upwork freelancer specializing in Graphic Design and photo retouching using Photoshop, Illustrator, and Lightroom. <br />
                     I'm ready to use all my knowledge and skills to make your Design on a higher professional level. <br />
                     You will get the highest quality service from me. <br />
